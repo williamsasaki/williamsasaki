@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamsasaki
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python, SQL and R
 - 💞️ I’m looking to collaborate on data mining and visualization projects.
 - 📫 How to reach me https://www.linkedin.com/in/marcossasaki/
 
